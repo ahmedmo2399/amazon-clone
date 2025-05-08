@@ -43,8 +43,13 @@
 }
 .header_optionBasket{
     display: flex;
-    align-items: center;
-   
+    align-items: center;   
+}
+.header_optionBasketCount{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 13px;
+    font-weight: 800;
 }
 .header_option{
     display: flex;
